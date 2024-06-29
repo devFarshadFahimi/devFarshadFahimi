@@ -1,6 +1,12 @@
-<p align="left"> <img src="https://img.shields.io/github/followers/devFarshadFahimi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="devFarshadFahimi" /></p>
+<p align="left">
+ <img src="https://img.shields.io/github/followers/devFarshadFahimi?logo=github&style=rounded&color=512bd4&labelColor=505050" alt="devFarshadFahimi" />
+ <img src="https://komarev.com/ghpvc/?username=devFarshadFahimi&label=Profile%20views&color=512bd4&style=rounded" alt="devFarshadFahimi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devFarshadFahimi" alt="devFarshadFahimi" /></a> </p>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=devFarshadFahimi" alt="devFarshadFahimi" />
+ </a> 
+</p>
 
 ---
 
@@ -10,7 +16,6 @@
 
 I am a Senior .NET Developer with over 6 years of experience in designing, developing, and implementing high-quality software solutions. My expertise lies in creating robust, scalable, and efficient applications using the latest .NET technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devFarshadFahimi&label=Profile%20views&color=512bd4&style=rounded" alt="devFarshadFahimi" /> </p>
 
 ## 🛠️ Skills
 
