@@ -8,6 +8,8 @@ Certainly! Below is an advanced README in Markdown format for a GitHub repositor
 
 I am a Senior .NET Developer with over 6 years of experience in designing, developing, and implementing high-quality software solutions. My expertise lies in creating robust, scalable, and efficient applications using the latest .NET technologies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devFarshadFahimi&label=Profile%20views&color=512bd4&style=rounded" alt="devFarshadFahimi" /> </p>
+
 ## 🛠️ Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
