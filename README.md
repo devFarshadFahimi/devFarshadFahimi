@@ -22,11 +22,6 @@ I am a Senior .NET Developer with over 6 years of experience in designing, devel
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devFarshadFahimi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devFarshadFahimi&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devFarshadFahimi&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devFarshadFahimi&theme=radical)
 ![devFarshadFahimi's Stats](https://github-readme-stats.vercel.app/api?username=devFarshadFahimi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![devFarshadFahimi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devFarshadFahimi&theme=vue-dark&hide_border=true)
 ![devFarshadFahimi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devFarshadFahimi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
