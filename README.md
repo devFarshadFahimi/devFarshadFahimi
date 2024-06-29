@@ -3,9 +3,7 @@
  <img src="https://komarev.com/ghpvc/?username=devFarshadFahimi&label=Profile%20views&color=512bd4&style=rounded" alt="devFarshadFahimi" /> </p>
 
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
  <img src="https://github-profile-trophy.vercel.app/?username=devFarshadFahimi" alt="devFarshadFahimi" />
- </a> 
 </p>
 
 ---
