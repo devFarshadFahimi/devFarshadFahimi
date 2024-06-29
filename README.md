@@ -1,4 +1,6 @@
-Certainly! Below is an advanced README in Markdown format for a GitHub repository, tailored to a senior .NET developer with over 6 years of experience in programming. This includes icons and images to enhance the presentation.
+<p align="left"> <img src="https://img.shields.io/github/followers/devFarshadFahimi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="devFarshadFahimi" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devFarshadFahimi" alt="devFarshadFahimi" /></a> </p>
 
 ---
 
@@ -22,6 +24,11 @@ I am a Senior .NET Developer with over 6 years of experience in designing, devel
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🛠️ Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts,tailwind,bootstrap,git,github,vscode,postman,c#"  />
+</div>
 
 ## 📈 Statistics
 ![devFarshadFahimi's Stats](https://github-readme-stats.vercel.app/api?username=devFarshadFahimi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
