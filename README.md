@@ -40,9 +40,9 @@ I am a Senior .NET Developer with over 6 years of experience in designing, devel
 ⭐️ My Recent OpenSource Projects
 | **System**            | **Status**       | **Description**                                                                                                                                                                        |
 |:---------------------:|:----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Building blocks]('https://github.com/MicroServiceArchitectureDesign/App_MicroService_BuildingBlock') |  :construction:  |  This project contains some reusable functionalities across all services\.                                                                                                             |
-| [Job Scheduler]('https://github.com/MicroServiceArchitectureDesign/App_MicroService_JobScheduler')   |  :construction:  |  This is a Job\-Scheduler project based on HangFire, it has a simple front\-end based on : Bootstrap UI kit, HTMX and Razor pages\. <br>         Also, supports OpenAPI with swagger\. |
-|  [Api Gateway]('https://github.com/MicroServiceArchitectureDesign/App_MicroService_Gateway')     |  :construction:  |  This a API Gateway based on Ocelot to put a Gateway in\-front of all MicroServices\.                                                                                                  |
+| [Building blocks](https://github.com/MicroServiceArchitectureDesign/App_MicroService_BuildingBlock) |  :construction:  |  This project contains some reusable functionalities across all services\.                                                                                                             |
+| [Job Scheduler](https://github.com/MicroServiceArchitectureDesign/App_MicroService_JobScheduler)   |  :construction:  |  This is a Job\-Scheduler project based on HangFire, it has a simple front\-end based on : Bootstrap UI kit, HTMX and Razor pages\. <br>         Also, supports OpenAPI with swagger\. |
+|  [Api Gateway](https://github.com/MicroServiceArchitectureDesign/App_MicroService_Gateway)     |  :construction:  |  This a API Gateway based on Ocelot to put a Gateway in\-front of all MicroServices\.                                                                                                  |
 
 ---
 
