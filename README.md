@@ -48,8 +48,8 @@ I am a Senior .NET Developer with over 6 years of experience in designing, devel
    </thead>
    <tbody>
        <tr>
-         <td colspan="3" style="text-align: center;" ><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_BuildingBlock'> Building blocks </a></td>
-          <td colspan="3" style="text-align: center;" > :construction: </td>
+         <td colspan="3"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_BuildingBlock'> Building blocks </a></td>
+          <td colspan="3" > :construction: </td>
          <td colspan="6"> This project contains some reusable functionalities across all services. </td>
        </tr> 
      <tr>
