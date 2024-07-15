@@ -48,7 +48,7 @@ I am a Senior .NET Developer with over 6 years of experience in designing, devel
    </thead>
    <tbody>
        <tr>
-         <td width="180px"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_Gateway'>📺 Api Gateway</a></td>
+         <td width="180px"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_Gateway'> Api Gateway </a></td>
           <td> In-Progress </td>
          <td> This a API Gateway based on Ocelot to put a Gateway in-front of all MicroServices.</td>
        </tr>        
