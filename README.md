@@ -41,17 +41,28 @@ I am a Senior .NET Developer with over 6 years of experience in designing, devel
 <table>
    <thead>
       <tr>
-        <th>System</th>
-        <th>Status</th>
-        <th>Description</th>
+        <th colspan="3">System</th>
+        <th colspan="3">Status</th>
+        <th colspan="6">Description</th>
       </tr>
    </thead>
    <tbody>
        <tr>
-         <td width="180px"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_Gateway'> Api Gateway </a></td>
-          <td> In-Progress </td>
-         <td> This a API Gateway based on Ocelot to put a Gateway in-front of all MicroServices.</td>
-       </tr>        
+         <td colspan="3"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_BuildingBlock'> Building blocks </a></td>
+          <td colspan="3"> In-Progress </td>
+         <td colspan="6"> This project contains some reusable functionalities across all services. </td>
+       </tr> 
+     <tr>
+         <td colspan="3"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_JobScheduler'> Job Scheduler </a></td>
+          <td colspan="3"> In-Progress </td>
+         <td colspan="6"> This is a Job-Scheduler project based on HangFire, it has a simple front-end based on : Bootstrap UI kit, HTMX and Razor pages. 
+         Also, supports OpenAPI with swagger.</td>
+       </tr>
+     <tr>
+         <td colspan="3"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_Gateway'> Api Gateway </a></td>
+          <td colspan="3"> In-Progress </td>
+         <td colspan="6"> This a API Gateway based on Ocelot to put a Gateway in-front of all MicroServices.</td>
+       </tr>
     </tbody>
 </table>
 ---
