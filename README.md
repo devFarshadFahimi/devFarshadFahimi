@@ -34,11 +34,25 @@ I am a Senior .NET Developer with over 6 years of experience in designing, devel
 ![devFarshadFahimi's Stats](https://github-readme-stats.vercel.app/api?username=devFarshadFahimi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![devFarshadFahimi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devFarshadFahimi&theme=vue-dark&hide_border=true)
 ![devFarshadFahimi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devFarshadFahimi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farshadfahimi5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadfahimi5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devFarshadFahimi)
+## My recent open-source projects
 
+⭐️ My Recent OpenSource Projects
+<table>
+   <thead>
+      <tr>
+        <th>System</th>
+        <th>Status</th>
+        <th>Description</th>
+      </tr>
+   </thead>
+   <tbody>
+       <tr>
+         <td width="180px"><a href='https://github.com/MicroServiceArchitectureDesign/App_MicroService_Gateway'>📺 Api Gateway</a></td>
+          <td> In-Progress </td>
+         <td> This a API Gateway based on Ocelot to put a Gateway in-front of all MicroServices.</td>
+       </tr>        
+    </tbody>
+</table>
 ---
 
